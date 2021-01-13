@@ -15,5 +15,7 @@ store inventory system are as follows:
 5. Delete out of stock medicine.
 6. Modify the Details of Medicine.
 7. Review of Medicine
+
+
 ** Details of Paracetamol Medicine taken
 as default
